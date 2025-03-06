@@ -40,7 +40,8 @@ To use this feature, you need:
    1. Select the **Resource Group** you created for the event hub.
    1. Enter the **Logic App name**, and the system immediately checks to see if the name is available. 
    1. Select a **Region** for the logic app.
-   1. For **Plan type**, select the **Consumption** tier. Choose a region and plan type that aligns with your organization's size and needs. To learn about differences between tiers, see the [Standard and Consumption logic app workflow](/azure/logic-apps/logic-apps-overview#create-and-deploy-to-different-environments). 
+   1. For **Plan type**, select the **Consumption** tier. Choose a region and plan type that aligns with your organization's size and needs. To learn about differences between tiers, see the [Standard and Consumption logic app workflow](/azure/logic-apps/logic-apps-overview#create-and-deploy-to-different-environments).
+   "instructed to eelect the "Consumption" tier is, yet image is showing picking Standard tier. 
    1. Don't change any other settings. 
 
       >[!NOTE]
